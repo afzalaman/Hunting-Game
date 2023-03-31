@@ -1,5 +1,5 @@
 # Task Description
-(This task was given as an assignment in BSc Computer Science - OOP course at Eötvös Loránd University) (The given task implements the JAVA GUI using the Java Swing)
+(This task was given as an assignment in BSc Computer Science - Programming Technology course at Eötvös Loránd University) (The given task implements the JAVA GUI using the Java Swing)
 
 
 # Hunting-Game
